@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+Visit this course in codeyad : https://b2n.ir/t07382
 
 ## Getting Started
 
